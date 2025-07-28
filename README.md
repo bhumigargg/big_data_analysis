@@ -1,11 +1,11 @@
-# 📊 Big Data Analytics with Apache Spark  
+# Big Data Analytics with Apache Spark  
 ## MovieLens 25M Dataset Analysis
 
 This project performs big data analysis using **Apache Spark** on the **MovieLens 25M dataset**, a large-scale collection of movie ratings by users. It demonstrates Spark's capabilities to handle and analyze large datasets efficiently using SQL-like queries and PySpark DataFrames.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Google Colab** (for cloud-based execution)
 - **Apache Spark 3.1.2**
 - **PySpark (Spark with Python)**
@@ -14,7 +14,7 @@ This project performs big data analysis using **Apache Spark** on the **MovieLen
 
 ---
 
-## 📂 Dataset Details
+## Dataset Details
 
 - **Source:** [GroupLens MovieLens 25M](https://grouplens.org/datasets/movielens/25m/)
 - **Files Used:**
